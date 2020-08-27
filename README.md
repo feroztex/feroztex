@@ -8,7 +8,7 @@
 - 🔭 I’m currently building my [website] from scratch!
 - 🌱 I’m currently learning advanced HTML, CSS & JavaScript!
 - 👯 I’m looking to start learning React soon!
-- 🥅 2020 Goals - Become a front end expert - Contribute to Open Source projects
+- 🥅 2020 Goals - Become a front end expert & Contribute to Open Source projects
 - ⚡ Fun fact: I am a Textile graduate...
 
 ### Connect with me:
