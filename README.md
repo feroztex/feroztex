@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father of two kids and an aspiring Web Developer!
 
-- 🔭 I’m currently building my [website] from scratch!
+- 🔭 I’m currently building my [website] from scratch! (Domain from Namecheap and hosted free on Netlify)
 - 🌱 I’m currently learning advanced HTML, CSS & JavaScript!
 - 👯 I’m looking to start learning React soon!
 - 🥅 2020 Goals - Become a front end expert & Contribute to Open Source projects
