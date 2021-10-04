@@ -1,6 +1,6 @@
 ### Hi, I'm Feroz Alam!
 
-[![Website](https://img.shields.io/website?label=feroztex.com&style=for-the-badge&url=https%3A%2F%2Fferoztex.com)](https://feroztex.com)
+[![Website](https://img.shields.io/website?label=ferozalam.com&style=for-the-badge&url=https%3A%2F%2Fferozalam.com)](https://ferozalam.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/feroztex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fferoztex&screen_name=feroztex)
 
 ## I'm a Husband, Father of two kids and an aspiring Web Developer!
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="feroztex.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ferozalam.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="feroztex | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="feroztex | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="feroztex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -45,7 +45,7 @@
   <img align="left" alt="feroztex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=feroztex&count_private=true&show_icons=true&hide_border=true" />
 
 
-[website]: https://feroztex.com
+[website]: https://ferozalam.com
 [twitter]: https://twitter.com/Feroztex
 [instagram]: https://instagram.com/feroztex83
 [linkedin]: https://www.linkedin.com/in/feroztex/
